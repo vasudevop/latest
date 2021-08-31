@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Vas Consultants</h1>
-<h1 align="center"> This is Just a sample project with source code and pom.xml, with this we can learn how to your create and Deploy .war file on Tomcat server</h1>
+<h1 align="center"> This is Just a sample project with source code and pom.xml, with this we can learn how to create and Deploy .war file on Tomcat server</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
